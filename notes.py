@@ -22,6 +22,7 @@
 # 3 lives
 
 
+
 # other
 # player 1 stays with confined area
         
